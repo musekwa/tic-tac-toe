@@ -5,8 +5,8 @@ tutorial that help grasp important React concepts by doing.
 
 ## Available Scripts
 
-Make sure you have Nodejs and npm installed in your local machine. Next,
-Clone or download this project on your local computer, you need to run:
+Make sure you have Nodejs and npm installed in your local machine. <br>
+Next, clone or download this project on your local computer, and run this:
 
 #### `$ cd tic-tac-toe`
 #### `$ npm install`
