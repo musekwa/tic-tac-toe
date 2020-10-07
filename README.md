@@ -9,7 +9,7 @@ Make sure you have Nodejs and npm installed in your local machine. Next,
 Clone or download this project on your local computer, you need to run:
 
 #### `$ cd tic-tac-toe`
-#### `$ npm install'
+#### `$ npm install`
 #### `$ npm start`
 
 And you're ready to go!
