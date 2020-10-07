@@ -127,6 +127,7 @@ class Game extends React.Component {
 
 ReactDOM.render(<Game />, document.getElementById("root"));
 
+//Helper function
 function calculateWinner(squares) {
   const lines = [
     [0, 1, 2],
